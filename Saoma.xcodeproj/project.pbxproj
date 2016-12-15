@@ -502,6 +502,7 @@
 				880F3DFD1D78085F00075ADD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		880F3DFE1D78085F00075ADD /* Build configuration list for PBXNativeTarget "SaomaTests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +511,7 @@
 				880F3E001D78085F00075ADD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		880F3E011D78085F00075ADD /* Build configuration list for PBXNativeTarget "SaomaUITests" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +520,7 @@
 				880F3E031D78085F00075ADD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
